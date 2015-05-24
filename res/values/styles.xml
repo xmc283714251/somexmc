@@ -1,0 +1,35 @@
+<resources>
+	<style name="window_title_style">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">40.0dip</item>
+        <item name="android:background">@color/blue</item>
+        <item name="android:orientation">horizontal</item>
+         <item name="android:layout_weight">1</item>
+    </style>
+    <style name="window_title_back_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">30.0dip</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="window_title_text_style">
+        <item name="android:textSize">22.0dip</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">30.0dip</item>
+        <item name="android:layout_weight">12</item>
+        <item name="android:paddingLeft">90.0dip</item>
+        <item name="android:paddingTop">5.0dip</item>
+    </style>
+    <style name="window_title_right_style">
+        <item name="android:textSize">22.0dip</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">30.0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingRight">90.0dip</item>
+        <item name="android:paddingTop">5.0dip</item>
+    </style>
+
+</resources>
